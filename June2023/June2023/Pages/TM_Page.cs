@@ -91,8 +91,6 @@ namespace June2023.Pages
             materialOption.Click();
         }
 
-
-
         public void EditTimeRecord(IWebDriver driver)
         {
             // Edit time record
